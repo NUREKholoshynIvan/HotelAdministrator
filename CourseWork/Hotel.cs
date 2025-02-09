@@ -14,6 +14,7 @@ namespace CourseWork
         public DateTime ThisDay = DateTime.Today;
         public List<Room> UnsettlingToday = new List<Room>();
         public int price = 150;
+        public int BRANCHTEST = 0;
         public void CreateHotel()
         {
             for (int i = 0; i < 4; i++)
