@@ -16,6 +16,7 @@ namespace CourseWork
         public int price = 150;
         public int BRANCHTEST = 0;
         public int BRANCHTEST2 = 0;
+        public int BRANCHTEST3 = 0;
         public void CreateHotel()
         {
             for (int i = 0; i < 4; i++)
